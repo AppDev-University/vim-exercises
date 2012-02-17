@@ -1,5 +1,3 @@
 # Vim Exercises
 
-I've copied some code files here from different open source projects to use as example files to edit while practicing Vim commands.
-
-- pat
+A small collection of different types of code files to use while practicing Vim commands. These were taken from different open source projects, like Rubinius and JRuby.
